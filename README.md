@@ -57,3 +57,7 @@ func getChunk_caves(position: Vector2) -> Dictionary:
 	})
 ```
 ![Caves Generator](https://raw.githubusercontent.com/toto-bird/Godot-Bordered-Simplex-Noise/master/.gdignore/screenshot_caves.png)
+
+---
+`BorderedSimplexNoiseTexture`
+![Texture Generator](https://raw.githubusercontent.com/toto-bird/Godot-Bordered-Simplex-Noise/master/.gdignore/screenshot_texture.png)
