@@ -1,0 +1,12 @@
+.import/
+.gdignore/
+.gitignore
+.import/
+default_env.tres
+Example.gd
+Example.tscn
+icon.png
+*.import
+LICENSE
+project.godot
+README.md

@@ -23,10 +23,10 @@ func _init() -> void:
 
 
 func update_image() -> void:
-	noise.Seed        = Seed
-	noise.persistence = persistence
-	noise.blobbiness  = blobbiness
-	noise.thickness   = thickness
+	noise._Seed        = Seed
+	noise.persistence  = persistence
+	noise.blobbiness   = blobbiness
+	noise.thickness    = thickness
 
 	create_from_image(noise.get_image(get_width(), get_height()))
 
